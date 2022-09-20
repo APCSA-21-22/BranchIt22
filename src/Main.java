@@ -8,4 +8,8 @@ public class Main
         System.out.println("Then push it to Github");
         System.out.println("We will then see how to merge.");
     }//don't forget Rioux style
+    public static void riouxMethod()
+    {
+        System.out.println("I am fabulous!");
+    }
 }
